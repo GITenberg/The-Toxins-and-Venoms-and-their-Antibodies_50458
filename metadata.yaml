@@ -1,15 +1,21 @@
 _repo: The-Toxins-and-Venoms-and-their-Antibodies_50458
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Cohn, Alfred I.
     gutenberg_agent_id: '45919'
     url: http://www.gutenberg.org/2009/agents/45919
+covers:
+- cover_type: archival
+  image_path: 50458-h/images/cover.jpg
 creator:
   author:
     agent_name: Pozzi-Escot, Em.
     gutenberg_agent_id: '45918'
     url: http://www.gutenberg.org/2009/agents/45918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50458#The-Toxins-and-Venoms-and-their-Antibodies
 gutenberg_issued: '2015-11-14'
 gutenberg_type: Text
 identifiers:
